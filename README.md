@@ -1,4 +1,4 @@
-## BitLife Unlocker
+## BitLife Unlocker ~ Free
 > **Version:** unknown 
 ## Download
 
