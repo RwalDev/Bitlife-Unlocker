@@ -25,3 +25,6 @@ Even if the version in the releases appears outdated, it's worth trying as it mi
 6. Paste the files there.
 7. Tick the "Apply to all files" box and then Click on Replace.
 Done, and do not forget to rename MonetizationVars.txt to MonetizationVars
+
+To Make Changes Permanently
+soon-
