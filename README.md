@@ -1,16 +1,16 @@
-## ðŸŽ® BitLife Unlocker
-## ðŸ“¥ Download
+## BitLife Unlocker
+## Download
 
-**[ðŸ“¦ Download from Releases](https://github.com/RwalDev/Bitlife-Unlocker/releases)**
+**[“¦ Download from Releases](https://github.com/RwalDev/Bitlife-Unlocker/releases)**
 
-> **âš¡ Quick Tip:** Always use the **"Latest"** release for the best experience!
+> **Quick Tip:** Always use the **"Latest"** release for the best experience!
 
-## ðŸ“‹ Important Information
+##  Important Information
 
-### ðŸ“± Android Only
+### Android Only
 
 This is designed exclusively for **Android devices**. It does not work on iOS or other platforms.
 
-### âš ï¸ Compatibility Note
+### Compatibility Note
 
 Even if the version in the releases appears outdated, it's worth trying as it might still work with newer game versions.
