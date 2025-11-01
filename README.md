@@ -24,4 +24,4 @@ Even if the version in the releases appears outdated, it's worth trying as it mi
 5. Go to Android/data/com.candywriter.bitlife/files
 6. Paste the files there.
 7. Tick the "Apply to all files" box and then Click on Replace.
-Done
+Done, and do not forget to rename MonetizationVars.txt to MonetizationVars
