@@ -1,8 +1,9 @@
-## BitLife Unlocker ~ Free
+## BitLife Unlocker ~
 > **Version:** 3.26.1
 ## Download
 
 **[“¦ Download from Releases](https://github.com/RwalDev/Bitlife-Unlocker/releases)**
+ **[“¦ Download Bitlife (ITS REQUIRED)](https://play.google.com/store/apps/details?id=com.candywriter.bitlife&hl=en_IN)**
 
 > **Quick Tip:** Always use the **"Latest"** release for the best experience!
 
@@ -21,7 +22,7 @@ Even if the version in the releases appears outdated, it's worth trying as it mi
 2. - Download 'ZArchiver' from Playstore. (CAN BE ANY FILE APP BUT 'ZArchiver' IS RECOMMENDED)
 3. Open ZArchiver.
 4. Copy the " MonetizationVars " file from your downloaded location.
-5. Go to Android/data/com.candywriter.bitlife/files
+5. Go to Android/data/com.candywriter.bitlife/files (If not there, start the new game/app first.)
 6. Paste the files there.
 7. Tick the "Apply to all files" box and then Click on Replace.
 Done, and do not forget to rename MonetizationVars.txt to MonetizationVars
