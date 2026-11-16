@@ -2,7 +2,7 @@
 > **Version:** 3.26.1
 ## Download
 
-**[“¦ Download from Releases](https://github.com/RwalDev/Bitlife-Unlocker/releases)**
+**[“¦ Download from Releases](https://github.com/RwalDev/Bitlife-Unlocker/releases)**,
  **[“¦ Download Bitlife (ITS REQUIRED)](https://play.google.com/store/apps/details?id=com.candywriter.bitlife&hl=en_IN)**
 
 > **Quick Tip:** Always use the **"Latest"** release for the best experience!
