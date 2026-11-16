@@ -19,14 +19,14 @@ Even if the version in the releases appears outdated, it's worth trying as it mi
 
 ### HOW TO DOWNLOAD
 1. - Download the - " MonetizationVars " file.
-2. - Download 'ZArchiver' from Playstore. (CAN BE ANY FILE APP BUT 'ZArchiver' IS RECOMMENDED)
+2. - Download 'ZArchiver' from Playstore. (CAN BE ANY FILE APP BUT 'ZArchiver' IS RECOMMENDED).
 3. Open ZArchiver.
 4. Copy the " MonetizationVars " file from your downloaded location.
-5. Go to Android/data/com.candywriter.bitlife/files (If not there, start the new game/app first.)
+5. Go to Android/data/com.candywriter.bitlife/files (If not there, start the new game/app first).
 6. Paste the files there.
 7. Tick the "Apply to all files" box and then Click on Replace.
-Done, and do not forget to rename MonetizationVars.txt to MonetizationVars
-9. Delete 'LifeDictionary' and make a empty brand-new file called exact as that and Make sure to be no extension
+Done, and do not forget to rename MonetizationVars.txt to MonetizationVars.
+9. Delete 'LifeDictionary' and make a empty brand-new file called exact as that and Make sure to be no Extension.
 
 ### (LOOP)
-8. If you closed/restarted the app, do the exact 9 step all over again. (you don't have to replace your Main File 'MonetizationVars')
+8. If you closed/restarted the app, do the exact 9 step all over again. (you don't have to replace your Main File 'MonetizationVars').
