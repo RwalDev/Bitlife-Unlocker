@@ -28,5 +28,5 @@ Even if the version in the releases appears outdated, it's worth trying as it mi
 Done, and do not forget to rename MonetizationVars.txt to MonetizationVars
 9. Delete 'LifeDictionary' and make a empty brand-new file called exact as that and Make sure to be no extension
 
-### LOOP)
+### (LOOP)
 8. If you closed/restarted the app, do the exact 9 step all over again. (you don't have to replace your Main File 'MonetizationVars')
