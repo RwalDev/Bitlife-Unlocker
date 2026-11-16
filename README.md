@@ -15,7 +15,7 @@ This is designed exclusively for **Android devices**. It does not work on iOS or
 
 ### Compatibility Note
 
-Even if the version in the releases appears outdated, it's worth trying as it might still work with newer game versions.
+Even if the version in the releases appears outdated, it's worth trying as it might still work with newer game versions. (MIGHT CRASH AND CORRPUT YOUR SAVE FILE, not recommended)
 
 ### HOW TO DOWNLOAD
 1. - Download the - " MonetizationVars " file.
