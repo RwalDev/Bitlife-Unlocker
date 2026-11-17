@@ -1,5 +1,5 @@
 ## BitLife Unlocker ~
-> **Version:** 3.26.1
+> **Version:** 3.27
 ## Download
 
 **[Download from Releases](https://github.com/RwalDev/Bitlife-Unlocker/releases)**
