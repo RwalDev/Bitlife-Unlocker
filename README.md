@@ -27,7 +27,8 @@ Even if the version in the releases appears outdated, it's worth trying as it mi
 6. Paste the files there.
 7. Tick the "Apply to all files" box and then Click on Replace.
 Done, and do not forget to rename MonetizationVars.txt to MonetizationVars.
-9. Delete 'LifeDictionary' and make a empty brand-new file called exact as that and Make sure to be no Extension.
+9. Delete 'LifeDictionary' and make a empty brand-new file called exact as that and Make sure to be no Extension. (Some Versions of Android even allows you to not even follow this step, you just need to delete it and that's all)
+
 
 ### (LOOP)
 8. If you closed/restarted the app, do the exact 9 step all over again. (you don't have to replace your Main File 'MonetizationVars').
